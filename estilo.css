@@ -161,7 +161,7 @@ video{
 }
 
 .item:hover figure img{
-	transform:scale(1.25);
+	transform:scale(2);
 	filter: grayscale(0);
 	transition:all ease-out 0.5s;
 }
