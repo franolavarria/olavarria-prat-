@@ -4,7 +4,7 @@
 }
 
 body{
-	background:rgba(255,255,255,1);
+	background:rgba(255,20,20,1);
 	color:rgba(25,25,25,1);
 	font-family: 'font-family: 'font-family: 'Oswald', sans-serif;;;
 	font-weight:400;
@@ -17,14 +17,14 @@ h1, h2, h3, h4{
 
 h1{
 	letter-spacing:0.1em;
-	color:rgba(255,255,255,0.9);
+	color:rgba(255,20,20,0.9);
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
 }
 
 h2{
 	letter-spacing:0.02em;
-	color:rgba(255,255,255,0.6);
+	color:rgba(20,255,20,0.6);
 	padding:0.2em 0;
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
